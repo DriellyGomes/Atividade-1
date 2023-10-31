@@ -1,0 +1,31 @@
+body {
+    background-image: url('./imagens/cabecalhos_back.png');
+    background-repeat: repeat-y;
+    background-attachment: scroll;  
+    background-position: left ;
+    background-color: #FFF7D4;
+    margin-left: 170px;
+    margin-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    padding: 15px 5px 15px 5px ;
+     color: #8F6800;
+     
+}
+
+h3 {
+
+    padding: 15px 5px 15px 5px ;
+    background-color: #D38D00;
+    color: #FFFFFF;
+}
+hr {
+    border: dashed;
+    border-color: #D38D00; 
+}
+
+p{
+    padding: 15px 5px 15px 5px ;
+}
